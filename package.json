@@ -1,0 +1,16 @@
+{
+  "name": "generator-balihoo-creative",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for quickly starting Balihoo platform creative templates",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
